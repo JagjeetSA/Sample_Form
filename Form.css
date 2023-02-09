@@ -1,0 +1,55 @@
+.main{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    display: grid;
+    grid-template-columns: 600px 600px;
+    grid-template-rows: 800px;
+    column-gap: 10px;
+    height: 680px;
+    justify-content: center;
+    flex-wrap: wrap;   
+    
+
+}
+
+
+
+
+.container{
+   
+    border: 2px solid black;
+    padding: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    height: 600px;
+    width: 450px;
+   
+    
+
+
+}
+
+
+.logo{
+    
+    
+    border: 2px solid black;
+    padding: 12px;
+    text-align: justify;
+    margin-right: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    height: 600px;
+    width: 450px;
+
+      
+}
+
+.image{
+    border: 2px solid black;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
